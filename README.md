@@ -23,3 +23,4 @@ This script automates the installation of Plex Media Server on **Raspbian OS Lit
 ```bash
 git clone https://github.com/DemonPandaz2763/Auto-Plex
 cd Auto-Plex
+sudo ./setup
